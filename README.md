@@ -8,7 +8,7 @@ The Dimmer Switch is a user interface component that allows users to toggle betw
   <img src="media/dark.png" alt="Dark Theme" style="width: 30%;" />
 </div>
 
-Try it here <a href="https://jaythegray.github.io/dimmer-switch/">Example</a>
+Try it here <a href="https://jaythegray.github.io/dimmer-switch/" target="_blank" rel="noopener noreferrer">Example</a>
 
 ### How to Use
 
@@ -39,36 +39,6 @@ The Dimmer Switch provides the following functionality:
 ### Compatibility
 
 The Dimmer Switch is designed to be compatible with modern web browsers and responsive across various devices.
-
-### Example
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
-    <link rel="stylesheet" href="light-styles.css">
-    <!-- Add other stylesheets if necessary -->
-</head>
-<body>
-
-<!-- Your website content -->
-
-<!-- Dimmer Switch -->
-<div class="dimmer-switch">
-    <div class="handle"></div>
-</div>
-
-<script src="dimmer.js"></script>
-</body>
-<footer>
-    <p>&copy; 2024 Your Company | <a href="LICENSE">Apache 2.0 License<a></p>
-</footer>
-
-</html>
-```
 
 ### Contributions
 
