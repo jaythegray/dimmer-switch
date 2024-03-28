@@ -10,18 +10,38 @@
 </head>
 <body>
     <header>
-        <h1>Example Page</h1>
+       <h1>Dimmer Switch</h1>
+       <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Features</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
     </header>
     <main>
-        <div class="dimmer-switch">
+        <section class="introduction">
+            <h2>Welcome to the Dimmer Switch Example</h2>
+            <p>This page demonstrates how a dimmer switch can be used to toggle between different themes for a website. Move the slider below to switch between Light, Dim, and Dark modes.</p>
+        </section>
+        <section class="dimmer-switch">
+            <h2>Try It Out</h2>
             <label for="slider-input">Slider Input:</label>
             <input type="range" min="0" max="2" value="0" class="slider-input" id="slider-input">
-        </div>
+        </section>
+        <section class="features">
+            <h2>Features</h2>
+            <ul>
+                <li>Customizable Themes</li>
+                <li>User Preference Memory</li>
+                <li>Seamless Integration</li>
+            </ul>
+        </section>
     </main>
+    <footer>
+        <p>&copy; 2024 Your Company | <a href="LICENSE" target="_blank" rel="noopener noreferrer">Apache 2.0 License</a></p>
+    </footer>
     <script src="dimmer.js"></script>
 </body>
-<footer>
-    <p>&copy; 2024 Your Company | <a href="LICENSE">Apache 2.0 License</a></p>
-</footer>
-
 </html>
