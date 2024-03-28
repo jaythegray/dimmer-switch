@@ -3,9 +3,9 @@
 The Dimmer Switch is a user interface component that allows users to toggle between light, dim, and dark modes on a website. It provides a convenient way to adjust the visual appearance of the site according to user preferences.
 
 <div style="display:flex;">
-  <img src="media/light.png" alt="Light Theme" style="width: 33%;" />
-  <img src="media/dim.png" alt="Dim Theme" style="width: 33%;" />
-  <img src="media/dark.png" alt="Dark Theme" style="width: 33%;" />
+  <img src="media/light.png" alt="Light Theme" style="width: 30%;" />
+  <img src="media/dim.png" alt="Dim Theme" style="width: 30%;" />
+  <img src="media/dark.png" alt="Dark Theme" style="width: 30%;" />
 </div>
 
 
