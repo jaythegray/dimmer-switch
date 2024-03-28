@@ -8,6 +8,7 @@ The Dimmer Switch is a user interface component that allows users to toggle betw
   <img src="media/dark.png" alt="Dark Theme" style="width: 30%;" />
 </div>
 
+Try it here <a href="https://jaythegray.github.io/dimmer-switch/">Example</a>
 
 ### How to Use
 
