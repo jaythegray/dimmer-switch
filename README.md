@@ -62,6 +62,10 @@ The Dimmer Switch is designed to be compatible with modern web browsers and resp
 
 <script src="dimmer.js"></script>
 </body>
+<footer>
+    <p>&copy; 2024 Your Company | <a href="LICENSE">Apache 2.0 License<a></p>
+</footer>
+
 </html>
 ```
 
@@ -71,4 +75,5 @@ Contributions to the Dimmer Switch project are welcome. If you encounter any iss
 
 ### License
 
-The Dimmer Switch is licensed under the Apache License 2.0. See the LICENSE file for more details.
+The Dimmer Switch is licensed under the Apache License 2.0. See the LICENSE file for more details. 
+[View the Apache 2.0 License](LICENSE)
